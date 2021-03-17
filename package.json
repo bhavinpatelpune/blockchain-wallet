@@ -1,0 +1,17 @@
+{
+  "name": "blockchain_nodejs",
+  "version": "0.0.1",
+  "description": "Sample blockchain program using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "keywords": [],
+  "author": "Bhavin Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "typescript": "^4.2.2"
+  }
+}
